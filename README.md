@@ -15,5 +15,5 @@ Libraries Needed:
 - Fernet
 - OS
 
-#Week-Two-Complete
+# Week-Two-Complete
 This week I focused on getting the API to function properly. The block of code that utalizes the password API has been uploaded for viewing and testing, and will later be implemented into the full project
