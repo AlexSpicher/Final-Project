@@ -17,3 +17,7 @@ Libraries Needed:
 
 # Week-Two-Complete
 This week I focused on getting the API to function properly. The block of code that utalizes the password API has been uploaded for viewing and testing, and will later be implemented into the full project
+
+# Week Three Complete
+This week I completed the basic encryption and decryption functions. Next week will focus on the integration of the API as well as some minor tweaks and additions.
+I also think I want to alter the code so that instead of encrypting the entire directory, you pass it a file path and are able to pick and choose which files you want encrypted.
