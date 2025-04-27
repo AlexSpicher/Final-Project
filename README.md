@@ -1,10 +1,8 @@
-# Final-Project Week 1
-Encryption Program that uses a password generator API secure the file.
+# Final-Project
+Cyber protection program that can assist users in protecting their files and information
+Generates strong passwords for users with the use of the password API, as well as encrypting and decrypting files using the cryptography library
 
-The code will most likely utalize this API for password generation: https://www.api-ninjas.com/api/passwordgenerator
-- After encrypting files, a password will be required to decrypt. This API will provide users the option to generate a strong password.
-
-How the code will work:
+# How the code will work:
 - Naviagte the command line interface of your choosing to the directory where the py file is located
 - Running the program will display some welcome and instructional messages before giving users the option to generate a password, or use the encryption tool
 - Selecting password generation will display a strong 16 character password that can be copy and pasted at the users convencience.
