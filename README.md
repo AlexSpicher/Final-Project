@@ -1,4 +1,4 @@
-# Final-Project
+# Py-protection
 Cyber protection program that can assist users in protecting their files and information
 Generates strong passwords for users with the use of the password API, as well as encrypting and decrypting files using the cryptography library
 
