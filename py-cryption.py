@@ -36,7 +36,7 @@ def decrypt_file(filename, key):
         file.write(decrypted_data)
     
 #Initial messages and options
-print('Welcome To Cyberdome, please select and option')
+print('Welcome To Py-Cryption, please select and option')
 print('1 - password generator (generates strong 16 character password)')
 print('2 - encryption center (you can use this to encrypt and decrypt files)')
 choose = input('please select and option: ')
